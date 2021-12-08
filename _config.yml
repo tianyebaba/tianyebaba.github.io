@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Li Lu (卢立)"
+  name             : "Ye Tian (田野)"
   avatar           : "profile.png"
-  bio              : "Research Professor"
+  bio              : "Graduate student"
   location         : "Hangzhou, Zhejiang, China"
-  employer         : "Zhejiang University"
-  googlescholar    : "https://scholar.google.com/citations?user=mQSqGYAAAAAJ&hl=en"
-  email            : "li.lu@zju.edu.cn"
+  employer         : "Zhejiang University of Technology"
+  googlescholar    : #"https://scholar.google.com/citations?user=mQSqGYAAAAAJ&hl=en"
+  email            : "2112012221@zjut.edu.cn"
   researchgate     : #"https://www.researchgate.net/profile/Li_Lu87"
-  orcid            : "https://orcid.org/0000-0001-5230-3749"
+  orcid            : #"https://orcid.org/0000-0001-5230-3749"
   uri              :
   bitbucket        :
   codepen          :
