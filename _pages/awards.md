@@ -6,10 +6,15 @@ author_profile: true
 ---
 
 
+* 奖项名
+
+  ![Shanghai Computer Society Doctoral Dissertaion Award Nominations](../images/awards/jiang.jpg){:height="40%" width="40%"}
+
 * Shanghai Computer Society Doctoral Dissertaion Award Nominations (上海市计算机学会优秀博士学位论文提名奖)
 
 ![Shanghai Computer Society Doctoral Dissertaion Award Nominations](../images/awards/SCS-dda.jpeg){:height="40%" width="40%"}
 ![Shanghai Computer Society Doctoral Dissertaion Award Photo](../images/awards/SCS-dda-pic.jpg){:height="40%" width="40%"}
+
 * ACM China SIGAPP Chapter Doctoral Dissertation Award
 
 ![ACM China SIGAPP Chapter Doctoral Dissertation Award](../images/awards/ACM-SIGAPP-dda.jpg){:height="25%" width="25%"}
