@@ -3,7 +3,7 @@ title: "论文名"
 collection: publications
 catogories: 
     - conference
-permalink: /publication/2021-12-journal-name
+permalink: /publication/2021-11-journal-name
 #excerpt: ''
 date: 2021-11-25
 venue: '会议地点'
